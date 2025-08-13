@@ -1,10 +1,3 @@
-<!-- Header / Banner -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Israa+Chiheb;18+Years+Old;Student+at+Higher+School+of+Computer+Science+Bejaia;React+%26+Web+Exploitation+Learner;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
-
 
 <!-- Coding GIF -->
 <p align="center">
@@ -38,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmeisraa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeisraa&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 
 ---
