@@ -1,7 +1,10 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Israa+Chiheb;18+Years+Old;Student+at+Higher+School+of+Computer+Science+Bejaia;React+%26+Web+Exploitation+Learner;Always+Learning+New+Things" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Israa+Chiheb;18+Years+Old;Student+at+Higher+School+of+Computer+Science+Bejaia;React+%26+Web+Exploitation+Learner;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
 </p>
+
 
 <!-- Coding GIF -->
 <p align="center">
@@ -16,7 +19,7 @@
 - 🎓 Student at the **Higher School of Computer Science** in Bejaia  
 - ⚡ Currently focusing on **React** and **web exploitation**  
 - 💡 Passionate about building modern web apps and exploring cybersecurity  
-- 📫 Reach me via: [![Gmail Badge](https://img.shields.io/badge/-israa.redouane-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:israa.redouane@gmail.com)
+- 📫 Reach me via: [![Gmail Badge](https://img.shields.io/badge/-israachiheb-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:israaisraa202000@gmail.com)
 
 ---
 
@@ -44,7 +47,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:israa.redouane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="[https://github.com/itsmeisraa"]><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:israaisraa202000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/itsmeisraa"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
