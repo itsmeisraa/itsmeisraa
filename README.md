@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 👩‍💻 **Israa Chiheb**, 18 years old  
+- 👩‍💻 **Israa Chiheb**, 19 years old  
 - 🎓 Student at the **Higher School of Computer Science** in Bejaia  
 - ⚡ Currently focusing on **React** and **web exploitation**  
 - 💡 Passionate about building modern web apps and exploring cybersecurity  
