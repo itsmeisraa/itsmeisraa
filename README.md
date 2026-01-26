@@ -10,7 +10,7 @@
 
 - 👩‍💻 **Israa Chiheb**, 19 years old  
 - 🎓 Student at the **Higher School of Computer Science** in Bejaia  
-- ⚡ Currently focusing on **React** and **web exploitation**  
+- ⚡ Currently focusing on **nodejs** and **cyber security**  
 - 💡 Passionate about building modern web apps and exploring cybersecurity  
 - 📫 Reach me via: [![Gmail Badge](https://img.shields.io/badge/-israachiheb-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:israaisraa202000@gmail.com)
 
@@ -18,13 +18,13 @@
 
 ## 🛠 Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,discord,git,github,gmail,linux,obsidian,react,arduino,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,nmp,postman,c,discord,git,github,gmail,linux,obsidian,react,arduino,kali)](https://skillicons.dev)
 
 ---
 
 ## 📂 Featured Projects
 
-🚧 *Currently working on React projects and security challenges... Stay tuned!* 🚧  
+🚧 *Currently working on nodejs projects and security challenges... Stay tuned!* 🚧  
 
 ---
 
