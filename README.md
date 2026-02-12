@@ -18,7 +18,7 @@
 
 ## 🛠 Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,express,mongodb,npm,postman,c,discord,git,github,gmail,linux,obsidian,react,arduino,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,express,mongodb,npm,postman,c,java,git,github,linux,obsidian,react,arduino,kali,vite,ubuntu,powershell)](https://skillicons.dev)
 
 ---
 
