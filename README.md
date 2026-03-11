@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Israa+%F0%9F%91%8B;Full-Stack+%2B+Security+%2B+AI+Agent+Dev;Always+building%2C+always+learning...;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Israa+%F0%9F%91%8B;Backend+Dev+%2B+Security+%2B+AI+Workflows;Always+building%2C+always+learning...;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,10 +20,10 @@ name       : Israa Chiheb
 age        : 19
 location   : Bejaia, Algeria 🇩🇿
 education  : Higher School of Computer Science (ESI Bejaia)
-focus      : ["Node.js", "Cybersecurity", "AI Agents"]
-passion    : Building modern web apps, breaking things ethically,
-             and teaching machines to think
-status     : Currently deep in Node.js projects & security challenges
+focus      : ["Node.js", "Cybersecurity", "AI Agents with n8n"]
+passion    : Building web apps, breaking things ethically,
+             and automating everything with AI
+status     : On the road to full-stack 🚀 | Currently deep in backend + security
 ```
 
 ---
@@ -32,8 +32,8 @@ status     : Currently deep in Node.js projects & security challenges
 
 - 🔧 Building **Node.js** backends and REST APIs
 - 🔐 Exploring **cybersecurity** — CTFs, ethical hacking, Kali Linux
-- 🤖 Learning to design and build **AI Agents** — autonomous systems that think and act
-- 🌱 Leveling up in **React** and modern full-stack development
+- 🤖 Building **AI agents & automations** using **n8n** — workflows that actually do things
+- 🌱 Working towards **full-stack** — leveling up my frontend skills
 - 📫 Reach me: [![Gmail](https://img.shields.io/badge/-israachiheb-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:israaisraa202000@gmail.com)
 
 ---
@@ -48,14 +48,14 @@ status     : Currently deep in Node.js projects & security challenges
 
 ---
 
-## 🤖 Currently Exploring: AI Agents
+## 🤖 Currently Exploring: AI Agents with n8n
 
-> Building systems where AI doesn't just answer — it **acts**.
+> Automating the boring stuff — and the interesting stuff too.
 
-- 🧩 Understanding **LLM tool use** and function calling
-- 🔗 Integrating APIs to give agents real-world capabilities
-- 🛠 Experimenting with **LangChain** and autonomous pipelines
-- 🧪 Building small agents that browse, reason, and execute tasks
+- 🔗 Building **workflows** that connect apps, APIs, and AI models
+- 🧠 Wiring up **LLMs** inside n8n to create agents that actually take action
+- ⚙️ Automating real processes end-to-end — no manual steps
+- 🧪 Experimenting with triggers, webhooks, and multi-step agent flows
 
 ---
 
@@ -66,15 +66,15 @@ status     : Currently deep in Node.js projects & security challenges
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🔒 *Coming Soon* | Security challenge writeups | Kali, CTF |
-| 🌐 *Coming Soon* | Full-stack Node.js web app | Node, Express, MongoDB |
-| 🤖 *Coming Soon* | AI Agent experiment | JS, LLMs, APIs |
+| 🌐 *Coming Soon* | Node.js backend project | Node, Express, MongoDB |
+| 🤖 *Coming Soon* | AI agent workflow | n8n, LLMs, APIs |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmeisraa&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmeisraa&show_icons=true&theme=tokyonight&border_radius=10" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeisraa&theme=tokyonight&border_radius=10" height="180" alt="GitHub Streak"/>
 </div>
 
