@@ -60,7 +60,7 @@ goal       : Full-stack dev who breaks things ethically 🚀
 
 ---
 
-## 🤖 AI Automations with n8n
+## 🤖 AI Automations 
 
 > If it can be automated, I'll automate it.
 
