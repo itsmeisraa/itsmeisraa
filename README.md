@@ -17,7 +17,7 @@
 ```yaml
 name       : Israa Chiheb
 age        : 19
-location   : Bejaia, Algeria 🇩🇿
+location   : Guelma/Bejaia Algeria 🇩🇿
 education  : Higher School of Computer Science (ESI Bejaia)
 iam        : Frontend Developer + CTF Player
 learning   : ["Node.js & backend", "n8n AI automations", "cybersecurity deeper"]
