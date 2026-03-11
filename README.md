@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Israa%20Chiheb&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Security%20Enthusiast%20%7C%20AI%20Builder&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Israa%20Chiheb&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Dev%20%7C%20CTF%20Player%20%7C%20AI%20Automation&descAlignY=58&descAlign=50" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Israa+%F0%9F%91%8B;Backend+Dev+%2B+Security+%2B+AI+Workflows;Always+building%2C+always+learning...;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Israa+%F0%9F%91%8B;Frontend+Dev+%2B+CTF+Player;Building+AI+automations+with+n8n;Learning+backend+%26+leveling+up...;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,20 +19,22 @@ name       : Israa Chiheb
 age        : 19
 location   : Bejaia, Algeria 🇩🇿
 education  : Higher School of Computer Science (ESI Bejaia)
-focus      : ["Node.js", "Cybersecurity", "AI Agents with n8n"]
-passion    : Building web apps, breaking things ethically,
-             and automating everything with AI
-status     : On the road to full-stack 🚀 | Currently deep in backend + security
+iam        : Frontend Developer + CTF Player
+learning   : ["Node.js & backend", "n8n AI automations", "cybersecurity deeper"]
+passion    : Clean UIs, cracking CTF challenges, and automating
+             everything with AI workflows
+goal       : Full-stack dev who breaks things ethically 🚀
 ```
 
 ---
 
 ## ⚡ What I'm Up To
 
-- 🔧 Building **Node.js** backends and REST APIs
-- 🔐 Exploring **cybersecurity** — CTFs, ethical hacking, Kali Linux
-- 🤖 Building **AI agents & automations** using **n8n** — workflows that actually do things
-- 🌱 Working towards **full-stack** — leveling up my frontend skills
+- 🎨 Building **frontend** interfaces — HTML, CSS, JS, Tailwind & React
+- 🔧 Learning **Node.js & Express** — working my way toward full-stack
+- 🚩 Playing **CTF challenges** — web exploitation, reverse engineering, forensics
+- 🔐 Exploring **cybersecurity** with Kali Linux
+- 🤖 Creating **AI automations** with **n8n** — connecting apps, APIs & LLMs into smart workflows
 - 📫 Reach me: [![Gmail](https://img.shields.io/badge/-israachiheb-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:israaisraa202000@gmail.com)
 
 ---
@@ -48,26 +49,37 @@ status     : On the road to full-stack 🚀 | Currently deep in backend + securi
 
 ---
 
-## 🤖 Currently Exploring: AI Agents with n8n
+## 🚩 CTF Player
 
-> Automating the boring stuff — and the interesting stuff too.
+> I break things on purpose — it's called learning.
 
-- 🔗 Building **workflows** that connect apps, APIs, and AI models
-- 🧠 Wiring up **LLMs** inside n8n to create agents that actually take action
-- ⚙️ Automating real processes end-to-end — no manual steps
-- 🧪 Experimenting with triggers, webhooks, and multi-step agent flows
+- 🌐 **Web exploitation** — SQLi, XSS, IDOR, and more
+- 🔍 **Forensics & OSINT** — finding what's hidden
+- ⚙️ **Reverse engineering** — understanding how things work under the hood
+- 🧩 Competing on platforms like **TryHackMe**, **Hack The Box**, **PicoCTF**
+
+---
+
+## 🤖 AI Automations with n8n
+
+> If it can be automated, I'll automate it.
+
+- 🔗 Connecting apps, APIs, and AI models into smooth workflows
+- 🧠 Wiring up **LLMs** to build agents that take real action
+- ⚙️ Designing end-to-end automations — no unnecessary manual steps
+- 🧪 Experimenting with triggers, webhooks, and multi-step flows
 
 ---
 
 ## 📂 Featured Projects
 
-> 🚧 Currently crafting Node.js projects and security tools — dropping soon!
+> 🚧 Cooking up projects — dropping soon!
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔒 *Coming Soon* | Security challenge writeups | Kali, CTF |
-| 🌐 *Coming Soon* | Node.js backend project | Node, Express, MongoDB |
-| 🤖 *Coming Soon* | AI agent workflow | n8n, LLMs, APIs |
+| 🚩 *Coming Soon* | CTF writeups & solutions | Kali, Python |
+| 🎨 *Coming Soon* | Frontend project | HTML, Tailwind, JS |
+| 🤖 *Coming Soon* | AI automation workflow | n8n, LLMs, APIs |
 
 ---
 
