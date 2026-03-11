@@ -78,8 +78,8 @@ goal       : Full-stack dev who breaks things ethically 🚀
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🚩 *Coming Soon* | CTF writeups & solutions | Kali, Python |
-| 🎨 *Coming Soon* | Frontend project | HTML, Tailwind, JS |
-| 🤖 *Coming Soon* | AI automation workflow | n8n, LLMs, APIs |
+| 🎨 *EstiNova* | Full stack project | HTML, Tailwind, JS |
+| 🤖 *EstiNova* | AI automation workflow | n8n, LLMs, APIs |
 
 ---
 
