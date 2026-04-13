@@ -77,8 +77,8 @@ goal       : Full-stack dev who breaks things ethically 🚀
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🎨 *EstiNova* | Full stack project | HTML, Tailwind, React|
 | 🤖 *EstiNova* | AI automation workflow | n8n, LLMs, APIs |
+| 🚚 *Fret-dz* |  Logistique B2B | superbase, React, express.js|
 
 ---
 
