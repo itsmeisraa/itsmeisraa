@@ -82,12 +82,10 @@ goal       : Full-stack dev who breaks things ethically 🚀
 
 ---
 
----
-
 ## 📊 GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmeisraa&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsmeisraa&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="180" alt="GitHub Stats"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeisraa&theme=tokyonight&border_radius=10&hide_border=true" height="180" alt="GitHub Streak"/>
 </div>
@@ -95,10 +93,9 @@ goal       : Full-stack dev who breaks things ethically 🚀
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeisraa&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsmeisraa&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="170" alt="Top Languages"/>
 </div>
 
----
 ---
 
 ## 🌐 Let's Connect
