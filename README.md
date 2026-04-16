@@ -1,7 +1,24 @@
+# ⚡ Israa Chiheb
+`Frontend Dev | CTF Player | AI Automation`
+
 <div align="center">
-  <img src="https://img.shields.io/badge/-= ISRAA CHIHEB =- -0f0c29?style=for-the-badge&logoColor=fff&color=121212&labelColor=1a1a1a&label=&labelTextColor=00ff41"/>
+
+| 👋 Hello! | 🛠️ What I Do | 🔍 Looking For |
+| :--- | :--- | :--- |
+| **I'm a developer** focused on building <br/> clean, responsive interfaces. <br/> When I'm not coding, <br/> I'm hacking. | **CTF:** Web Exploitation <br/> and Pwning.<br/> **AI:** Automating workflows <br/> and building smart integrations. | **Collaborations** on new <br/> security tools or automation <br/> projects. |
+
 </div>
 
+<br/>
+
+### My Tech & Tools 🚀
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 <div align="center">
 
 <img src="https://img.shields.io/badge/~/profile/bio/latest-24243e?style=flat&logoColor=fff&color=1a1a1a&labelColor=2d3436"/>
