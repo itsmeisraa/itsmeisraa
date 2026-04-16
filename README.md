@@ -5,25 +5,13 @@
 </div>
 
 ---
-### My Tech & Tools 🚀
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
 <div align="center">
-
 <img src="https://img.shields.io/badge/~/profile/bio/latest-24243e?style=flat&logoColor=fff&color=1a1a1a&labelColor=2d3436"/>
-
 <br/>
-
+  
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE%20LOG-green?style=flat-square&logo=github&logoColor=white)](#)
 [![Stack](https://img.shields.io/badge/STACK-JS%20%7C%20KALI%20%7C%20AI%20API%20%7C%20GIT-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
-
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Israa+%F0%9F%91%8B;Frontend+Dev+%2B+CTF+Player;Building+AI+automations+with+n8n;Learning+backend+%26+leveling+up...;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
