@@ -1,7 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Israa%20Chiheb&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20CTF%20Player%20|%20AI%20Automation&descAlignY=65&descSize=20" />
+  <img src="https://img.shields.io/badge/-= ISRAA CHIHEB =- -0f0c29?style=for-the-badge&logoColor=fff&color=121212&labelColor=1a1a1a&label=&labelTextColor=00ff41"/>
 </div>
----
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/~/profile/bio/latest-24243e?style=flat&logoColor=fff&color=1a1a1a&labelColor=2d3436"/>
+
+<br/>
+
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE%20LOG-green?style=flat-square&logo=github&logoColor=white)](#)
+[![Stack](https://img.shields.io/badge/STACK-JS%20%7C%20KALI%20%7C%20AI%20API%20%7C%20GIT-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Israa+%F0%9F%91%8B;Frontend+Dev+%2B+CTF+Player;Building+AI+automations+with+n8n;Learning+backend+%26+leveling+up...;Welcome+to+my+GitHub!" alt="Typing SVG" />
