@@ -42,7 +42,7 @@ goal       : Full-stack dev who breaks things ethically 🚀
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,express,mongodb,react,vite,npm,postman,c,java,git,github,linux,ubuntu,kali,powershell,obsidian,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,express,mongodb,supabase,react,vite,npm,postman,c,java,git,github,linux,ubuntu,kali,powershell,obsidian,arduino)](https://skillicons.dev)
 
 </div>
 
