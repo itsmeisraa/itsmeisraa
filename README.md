@@ -6,12 +6,12 @@
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Israa+%F0%9F%91%8B;Frontend+Dev+%2B+CTF+Player;Building+AI+automations+with+n8n;Learning+backend+%26+leveling+up...;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Israa+%F0%9F%91%8B;Frontend+Dev+%2B+CTF+Player;Building+AI+agents+with+n8n;Learning+backend+%26+leveling+up...;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 whoami
 
 ```yaml
 name       : Israa Chiheb
