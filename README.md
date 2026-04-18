@@ -20,8 +20,7 @@ location   : Guelma/Bejaia Algeria 🇩🇿
 education  : Higher School of Computer Science (ESI Bejaia)
 iam        : Frontend Developer + CTF Player
 learning   : ["Node.js & backend", "n8n AI automations", "cybersecurity deeper"]
-passion    : Clean UIs, cracking CTF challenges, and automating
-             everything with AI workflows
+passion    : ["swimming", "gamming"]
 goal       : Full-stack dev who breaks things ethically 🚀
 ```
 
