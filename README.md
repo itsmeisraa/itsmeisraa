@@ -75,7 +75,7 @@ goal       : Full-stack dev who breaks things ethically 🚀
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🤖 *EstiNova* | erp ai assistant | n8n, LLMs, APIs |
+| 🤖 *EstiNova* | ERP ai assistant (2cp project) | n8n, LLMs, APIs |
 | 🚚 *Fret-dz* |  Logistique B2B | superbase, next.js, typescript|
 
 ---
