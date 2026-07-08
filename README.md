@@ -73,10 +73,9 @@ goal       : Full-stack dev who breaks things ethically 🚀
 
 > 🚧 Cooking up projects — dropping soon!
 
-| Project | Description | Stack |
+| Project | Description | why |
 |--------|-------------|-------|
-| 🤖 *EstiNova* | ERP ai assistant (2cp project) | n8n, LLMs, APIs |
-| 🚚 *Fret-dz* |  Logistique B2B | superbase, next.js, typescript|
+|  *ASG website * | full stack project  | for my swimming club |
 
 ---
 
