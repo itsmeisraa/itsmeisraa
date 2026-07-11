@@ -71,13 +71,7 @@ goal       : Full-stack dev who breaks things ethically 🚀
 
 ## 📂 Featured Projects
 
-> 🚧 Cooking up projects — dropping soon!
-
-| Project | Description | why |
-|--------|-------------|-------|
-|  *ASG website * | full stack project  | for my swimming club |
-
----
+> 🚧 Cooking up many projects — dropping soon!
 
 ## 📊 GitHub Stats & Languages
 
