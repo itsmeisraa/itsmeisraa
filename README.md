@@ -1,39 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=Hi%2C%20I'm%20Israa%20Chiheb&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=38&fontName=Fira-Code&desc=Frontend%20Developer%20%7C%20CTF%20Player%20%7C%20AI%20Automation%20Builder&descAlignY=58&descAlign=50&descSize=15&descColor=00E5FF" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Israa+Chiheb+%F0%9F%91%8B" alt="Hi, I'm Israa Chiheb" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=I+build+interfaces+for+the+web%2C+mostly+with+React.;I+break+things+ethically+through+CTFs.;I+automate+workflows+with+n8n+%2B+LLMs." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&lines=Frontend+Developer+%7C+CTF+Player+%7C+AI+Automation+Builder;I+build+interfaces%2C+break+things+ethically%2C+automate+the+rest." alt="Frontend Developer | CTF Player | AI Automation Builder" />
 
 <br/>
 
 <a href="https://portfolio-v2-chi-lilac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-00ff41?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black" /></a>
 <a href="https://www.linkedin.com/in/israa-chiheb-aaa3b837a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black" /></a>
-<img src="https://img.shields.io/github/followers/itsmeisraa?label=Followers&style=for-the-badge&color=FF0033&labelColor=black" />
+<img src="https://img.shields.io/github/followers/itsmeisraa?label=Followers&style=for-the-badge&color=00E5FF&labelColor=black" />
 <img src="https://komarev.com/ghpvc/?username=itsmeisraa&style=for-the-badge&color=00ff41&label=VIEWS&labelColor=black" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="60%">
-
 ### About me
 
-- 🌱 I'm currently learning **Backend development (Node.js & Express)** and **n8n AI automations**
-- 👨‍💻 Explore my work at **[portfolio-v2-chi-lilac.vercel.app](https://portfolio-v2-chi-lilac.vercel.app/)**
-- 💬 Ask me about **React, Tailwind, CTFs, n8n**
-- 📫 Reach me at **[israaisraa202000@gmail.com](mailto:israaisraa202000@gmail.com)**
-- ⚡ Fun fact: **Mathematics is the music of reason**
-- 📍 Guelma / Bejaia, Algeria · Higher School of Computer Science (ESI Bejaia)
+🔴 🟡 🟢 &nbsp; `israa@kali` — `./about.sh`
 
-</td>
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
-</td>
-</tr>
-</table>
+```bash
+israa@kali:~$ ./about.sh --all
+🌱 learning  → Backend development (Node.js & Express) + n8n AI automations
+👨‍💻 work      → portfolio-v2-chi-lilac.vercel.app
+💬 ask me    → React, Tailwind, Python, CTFs, n8n
+📫 reach     → israaisraa202000@gmail.com
+⚡ fun fact  → Mathematics is the music of reason
+📍 located   → Guelma / Bejaia, Algeria · Higher School of Computer Science (ESI Bejaia)
+israa@kali:~$ █
+```
 
 ---
 
@@ -55,9 +50,9 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,vite,nodejs,express,mongodb,supabase,npm,postman,c,java,git,github,linux,ubuntu,kali,powershell,obsidian,arduino&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,vite,py,nodejs,express,mongodb,supabase,npm,postman,c,java,git,github,linux,ubuntu,kali,powershell,obsidian,arduino&perline=8)](https://skillicons.dev)
 
-<sub>Frontend · Backend (learning) · Security labs · Tools</sub>
+<sub>Frontend · Python · Backend (learning) · Security labs · Tools</sub>
 
 </div>
 
@@ -80,7 +75,7 @@
 ### GitHub stats
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsmeisraa&show_icons=true&theme=dark&border_radius=10&hide_border=true&title_color=00ff41&icon_color=00E5FF&text_color=ffffff&bg_color=000000" height="180" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeisraa&theme=dark&border_radius=10&hide_border=true&ring=00ff41&fire=FF0033&currStreakLabel=00E5FF&background=000000" height="180" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeisraa&theme=dark&border_radius=10&hide_border=true&ring=00ff41&fire=FF0033&currStreakLabel=00E5FF&background=000000" height="180" alt="GitHub streak" />
 
 <br/>
 
