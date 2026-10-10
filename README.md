@@ -1,210 +1,214 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0c29,100:302b63&height=220&section=header&text=root@israa:~%23&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=38&fontName=Fira-Code&desc=_initializing_secure_shell_%7C_ai_core_online_%7C_ctf_mode_active&descAlignY=58&descAlign=50&descSize=16" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%3E_+whoami_--fetch-profile;$+cat+./israa.json;$+initializing+AI+neural+core...OK;$+loading+CTF+modules...ACCESS+GRANTED;$+Welcome%2C+hacker.+%F0%9F%91%BE" alt="Terminal Typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=root@israa:~%23&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&fontName=Fira-Code&desc=_secure_shell_online_+_ai_core_active_+_ctf_mode_on&descAlignY=60&descAlign=50&descSize=15&descColor=00E5FF" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+whoami_--fetch-profile;$+cat+./israa.json;$+initializing+AI+neural+core...OK;$+loading+CTF+modules...ACCESS+GRANTED;$+Welcome%2C+hacker" alt="Terminal Typing" />
 <br/>
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff41?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=black" />
-<img src="https://img.shields.io/badge/AI_CORE-v2.5_ACTIVE-A78BFA?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" />
-<img src="https://img.shields.io/badge/CTF_PLAYER-READY-ff004c?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=black" />
-<img src="https://img.shields.io/badge/LOCATION-Algeria-ffffff?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/AI_CORE-ACTIVE-00E5FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=black" />
+<img src="https://img.shields.io/badge/CTF-READY-FF0033?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=black" />
+<img src="https://img.shields.io/badge/KALI-LINUX-00ff41?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=black" />
 <br/>
-<a href="https://portfolio-v2-chi-lilac.vercel.app/"><img src="https://img.shields.io/badge/$-./deploy_portfolio.sh-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black" /></a>
-<img src="https://komarev.com/ghpvc/?username=itsmeisraa&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
+<a href="https://portfolio-v2-chi-lilac.vercel.app/"><img src="https://img.shields.io/badge/$-./open_portfolio.sh-00ff41?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black" /></a>
+<img src="https://komarev.com/ghpvc/?username=itsmeisraa&style=for-the-badge&color=00ff41&label=VIEWS&labelColor=black" />
+<br/><br/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6X8/giphy.gif" width="100%" height="180" alt="Matrix Rain"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="divider"/>
 </div>
-
----
 
 ### >_ navigation.exe
 ```bash
-israa@kali:~$ ls -la ./sections
-drwxr-xr-x  ./01-system_boot
-drwxr-xr-x  ./02-installed_modules
-drwxr-xr-x  ./03-ctf_exploits
-drwxr-xr-x  ./04-ai_neural_lab
-drwxr-xr-x  ./05-deployments
-drwxr-xr-x  ./06-system_diagnostics
-drwxr-xr-x  ./07-secure_channel
+israa@kali:~$ ls ./modules
+./01-boot  ./02-stack  ./03-ctf  ./04-ai_lab  ./05-builds  ./06-stats  ./07-contact
 ```
 
----
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="divider"/>
+</div>
 
-### 🟢 >_ ./system_boot --mode ai_agent
+### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> >_ ./boot_israa.sh
 <table>
 <tr>
 <td width="55%">
 
 ```bash
-israa@kali:~$ whoami --fetch-profile
+israa@kali:~$ whoami
 {
   "name": "Israa Chiheb",
   "age": 19,
   "location": "Guelma / Bejaia, Algeria",
-  "education": "Higher School of Computer Science (ESI Bejaia)",
+  "school": "Higher School of Computer Science (ESI Bejaia)",
   "role": ["Frontend Developer", "CTF Player"],
-  "currently_learning": [
-    "Node.js & backend",
-    "n8n AI automations",
-    "cybersecurity deeper"
-  ],
-  "passion": ["swimming", "gaming", "sports photography"],
+  "learning": ["Node.js & backend", "n8n AI automations", "cybersecurity"],
+  "love": ["swimming", "gaming", "sports photography"],
   "goal": "Full-stack dev who breaks things ethically"
 }
 ```
-
 </td>
 <td width="45%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Hacker Terminal"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&width=300&lines=Frontend+Dev+%2B+CTF+Player;Building+AI+agents+with+n8n;Breaking+things+ethically...;Automate+everything" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Hacker"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&color=00E5FF&center=true&width=300&lines=Frontend+Dev;CTF+Player;AI+Automation+Builder;Break+it+to+learn+it" />
 </td>
 </tr>
 </table>
 
-> ```
-> [OK] frontend_interface loaded
-> [OK] kali_linux environment detected
-> [OK] curiosity driver v19.0 installed
-> [..] backend_skills compiling...
-> ```
+<details open>
+<summary><b>⚡ live_processes — click to expand / collapse</b></summary>
 
----
-
-### ⚡ >_ tail -f ./current_processes.log
 ```bash
-[+] [PID 1337] Building frontend interfaces — HTML, CSS, JS, Tailwind & React
-[+] [PID 1338] Learning Node.js & Express — working my way toward full-stack
-[+] [PID 1339] Playing CTF challenges — web exploitation, reverse engineering, forensics
-[+] [PID 1340] Exploring cybersecurity with Kali Linux
-[+] [PID 1341] Creating AI automations with n8n — apps, APIs & LLMs into smart workflows
-[+] [PID 1342] Occasionally shooting sports photography
+[+] 🎨 Building frontend — HTML, CSS, JS, Tailwind & React
+[+] 🔧 Learning Node.js & Express — becoming full-stack
+[+] 🚩 Playing CTFs — web exploitation, reverse, forensics
+[+] 🔐 Hacking with Kali Linux
+[+] 🤖 Building AI automations with n8n — APIs + LLMs + workflows
+[+] 📸 Shooting sports photography
+[+] 🔥 status: compiling_future.exe [████████--] 80%
 ```
+</details>
 
----
-
-### 🛠️ >_ apt install ./stack --all-modules
 <div align="center">
-
-```bash
-israa@kali:~$ neofetch --tech-stack
-```
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,express,mongodb,supabase,react,vite,npm,postman,c,java,git,github,linux,ubuntu,kali,powershell,obsidian,arduino&perline=7)](https://skillicons.dev)
-<br/>
-<img src="https://img.shields.io/badge/FRONTEND-HTML_CSS_JS_Tailwind_React-00ff41?style=flat-square&labelColor=black" />
-<img src="https://img.shields.io/badge/BACKEND-Node.js_Express_MongoDB_Supabase-A78BFA?style=flat-square&labelColor=black" />
-<img src="https://img.shields.io/badge/TOOLS-Kali_Linux_Git_Postman_Obsidian-ff004c?style=flat-square&labelColor=black" />
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="divider"/>
 </div>
 
----
+### 🛠️ >_ ./load_stack --auto
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FF41&center=true&width=500&lines=%24+neofetch+--tech-stack;%24+installing+all+modules...DONE" />
+<br/>
 
-### 🚩 >_ root@ctf:~/exploits ./run_attack.sh
+[![Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,vite,nodejs,express,mongodb,supabase,npm,postman,c,java,git,github,linux,ubuntu,kali,powershell,obsidian,arduino&perline=7)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/FRONTEND-HTML_CSS_JS_React_Tailwind-00ff41?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/BACKEND-Node_Express_Mongo_Supabase-00E5FF?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/HACK-Kali_Git_Postman_Linux-FF0033?style=for-the-badge&labelColor=black" />
+<br/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6X8/giphy.gif" width="100%" height="90" alt="matrix strip"/>
+</div>
+
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="divider"/>
+</div>
+
+### 🚩 >_ ./ctf_attack --live
 > I break things on purpose — it's called learning.
 ```bash
-root@ctf:~# cat ./ctf_profile.txt
-[*] WEB EXPLOITATION — SQLi, XSS, IDOR, and more
-[*] FORENSICS & OSINT — finding what's hidden
-[*] REVERSE ENGINEERING — understanding how things work under the hood
-[*] PLATFORMS — TryHackMe | Hack The Box | PicoCTF
+root@ctf:~# cat exploits.txt
+[+] WEB → SQLi | XSS | IDOR
+[+] FORENSICS + OSINT → find the hidden
+[+] REVERSE → how it works under the hood
+[+] ARENAS → TryHackMe | HackTheBox | PicoCTF
 ```
+
 <div align="center">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=88cc14" />
-<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9fef00" />
-<img src="https://img.shields.io/badge/PicoCTF-000000?style=for-the-badge&logo=flag&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-HACKING-00ff41?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=black" />
+<img src="https://img.shields.io/badge/HackTheBox-PWNED-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=00E5FF&labelColor=black" />
+<img src="https://img.shields.io/badge/PicoCTF-FLAG-FF0033?style=for-the-badge&logo=flag&logoColor=white&labelColor=black" />
+<br/><br/>
+<img src="https://media.giphy.com/media/2mKxYKx8yudTOHkqEr/giphy.gif" width="420" alt="CTF Hacker Gif"/>
 <br/>
-<img src="https://media.giphy.com/media/2mKxYKx8yudTOHkqEr/giphy.gif" width="400" alt="CTF Gif"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=900&color=FF0033&center=true&width=550&lines=%24+sqlmap+-u+target+--dump-all;%24+burpsuite+--intercept+ON;%24+flag+captured...GG" />
 </div>
 
----
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="divider"/>
+</div>
 
-### 🤖 >_ python3 ./ai_neural_lab.py --activate
+### 🤖 >_ ./ai_lab --neural_online
 > If it can be automated, I'll automate it.
 ```python
-class AIAgent(israa.Brain):
-    def __init__(self):
-        self.engine = "n8n + LLMs"
-        self.workflows = ["triggers", "webhooks", "multi-step flows"]
-        self.capabilities = [
-            "Connecting apps, APIs, and AI models into smooth workflows",
-            "Wiring up LLMs to build agents that take real action",
-            "Designing end-to-end automations — no unnecessary manual steps",
-            "Experimenting with triggers, webhooks, and multi-step flows"
-        ]
+class AIAgent(israa.brain):
+    engine = "n8n + LLMs + APIs"
+    workflows = ["triggers", "webhooks", "multi-step agents"]
+    powers = [
+      "connect apps + APIs + AI into one flow",
+      "LLM agents that take REAL action",
+      "zero manual steps, full automation",
+      "experiment daily with new nodes"
+    ]
     def run(self):
-        while True:
-            automate(everything=True)
+        while alive: automate(everything=True)
 ```
+
 <div align="center">
 
 ```mermaid
 flowchart LR
-    A[Trigger] --> B[n8n Workflow]
-    B --> C{LLM Agent}
-    C -->|API| D[Apps + Services]
-    C -->|Webhook| E[Database]
-    D --> F[Autonomous Action]
+    A[Trigger] --> B[n8n Brain]
+    B --> C{AI Agent}
+    C -->|API| D[Apps]
+    C -->|Webhook| E[Data]
+    D --> F[Auto Action]
     E --> F
-    style C fill:#A78BFA,stroke:#00ff41,stroke-width:2px,color:#000
-    style B fill:#000,stroke:#00ff41,stroke-width:2px,color:#00ff41
-    style F fill:#00ff41,stroke:#000,stroke-width:2px,color:#000
+    style C fill:#00E5FF,stroke:#00ff41,stroke-width:3px,color:#000
+    style B fill:#000,stroke:#00ff41,stroke-width:3px,color:#00ff41
+    style F fill:#00ff41,stroke:#000,stroke-width:3px,color:#000
+    style A fill:#FF0033,stroke:#000,stroke-width:2px,color:#fff
 ```
-<img src="https://img.shields.io/badge/n8n-Automation-FF3030?style=for-the-badge&logo=n8n&logoColor=white&labelColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-LLM_Agents-00ff41?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" />
-<img src="https://img.shields.io/badge/Webhooks-Live-FAB005?style=for-the-badge&logo=webhook&logoColor=black&labelColor=black" />
+<img src="https://img.shields.io/badge/n8n-WORKFLOWS-FF0033?style=for-the-badge&logo=n8n&logoColor=white&labelColor=black" />
+<img src="https://img.shields.io/badge/LLM-AGENTS-00E5FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=black" />
+<img src="https://img.shields.io/badge/API-AUTO-00ff41?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=black" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&color=00E5FF&center=true&width=600&lines=workflow+triggered...;LLM+thinking...;calling+API...;task+completed+autonomously" />
 </div>
 
----
-
-### 📂 >_ ./deployments --featured
 <div align="center">
-<a href="https://portfolio-v2-chi-lilac.vercel.app/"><img src="https://img.shields.io/badge/FULL_PORTFOLIO-portfolio--v2--chi--lilac.vercel.app-00ff41?style=for-the-badge&labelColor=black" /></a>
-
-```bash
-israa@kali:~/projects$ git log --oneline --featured
-* portfolio-v2 -> React + Tailwind [LIVE]
-* next-project -> cooking... [IN PROGRESS]
-* ai-automation-flows -> n8n agents [COMING SOON]
-```
-> More projects cooking — dropping soon! Check the portfolio above for the latest.
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="divider"/>
 </div>
 
----
-
-### 📊 >_ htop ./system_diagnostics
+### 📂 >_ ./builds --featured
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeisraa&theme=tokyo-night&bg_color=0f0c29&color=00ff41&line=A78BFA&point=ff004c&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+<a href="https://portfolio-v2-chi-lilac.vercel.app/"><img src="https://img.shields.io/badge/OPEN-FULL_PORTFOLIO-00ff41?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black" /></a>
+
+```bash
+israa@kali:~/projects$ git log --oneline
+* portfolio-v2 → LIVE — React + Tailwind
+* next-build → cooking...
+* ai-flows → n8n agents coming soon
+```
+> More projects cooking — dropping soon! Check portfolio for latest.
 <br/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsmeisraa&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&title_color=00ff41&icon_color=A78BFA&text_color=ffffff&bg_color=0f0c29" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeisraa&theme=tokyonight&border_radius=10&hide_border=true&ring=00ff41&fire=ff004c&currStreakLabel=A78BFA&background=0f0c29" height="180" alt="GitHub Streak"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=900&color=00FF41&center=true&width=500&lines=%24+npm+run+deploy;building...;deployed+successfully" />
+</div>
+
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="divider"/>
+</div>
+
+### 📊 >_ ./stats --live_diagnostics
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeisraa&theme=github-dark&bg_color=000000&color=00ff41&line=00E5FF&point=FF0033&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 <br/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsmeisraa&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=0f0c29" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsmeisraa&show_icons=true&theme=dark&border_radius=10&hide_border=true&title_color=00ff41&icon_color=00E5FF&text_color=ffffff&bg_color=000000" height="180" alt="Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeisraa&theme=dark&border_radius=10&hide_border=true&ring=00ff41&fire=FF0033&currStreakLabel=00E5FF&background=000000" height="180" alt="Streak"/>
 <br/>
-<img src="https://raw.githubusercontent.com/itsmeisraa/itsmeisraa/output/snake.svg" alt="Snake animation"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsmeisraa&layout=compact&theme=dark&border_radius=10&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=000000" height="170" alt="Langs"/>
+<br/>
+<img src="https://raw.githubusercontent.com/itsmeisraa/itsmeisraa/output/snake.svg" alt="Snake"/>
+<br/>
+<img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=000000&textColor=00ff41&borderColor=00E5FF" alt="Joke Card" width="60%"/>
 </div>
 
 ```bash
-israa@kali:~$ uptime --stats
- CPU: ██████████░░ 82% coding
- MEM: ████████░░░░ 68% CTF grinding
- NET: ████████████ 100% curiosity
+CPU: [██████████--] 82% coding
+MEM: [████████----] 68% CTF
+NET: [████████████] 100% curiosity
 ```
 
----
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="divider"/>
+</div>
 
-### 📡 >_ ./open_secure_channel --connect
+### 📡 >_ ./contact --secure_channel
 <div align="center">
 
 ```bash
-israa@kali:~$ ssh connect@israa -p 22
-[*] encrypted channel established...
+israa@kali:~$ ssh connect@israa
+[+] encrypted channel established...
 ```
-<a href="https://portfolio-v2-chi-lilac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-030014?style=for-the-badge&logo=vercel&logoColor=00ff41" /></a>
-<a href="https://github.com/itsmeisraa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
+<a href="https://portfolio-v2-chi-lilac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff41" /></a>
+<a href="https://github.com/itsmeisraa"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
 <a href="mailto:israaisraa202000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://discordapp.com/users/748619400034385991"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&color=00FF41&center=true&vCenter=true&width=550&lines=First%2C+solve+the+problem.;Then%2C+write+the+code.;see+you+on+the+other+side" alt="Quote" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+First%2C+solve+the+problem.;%3E+Then%2C+write+the+code.;%3E+_stay_curious_hacker" alt="Quote" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,50:0f0c29,100:000000&height=120&section=footer" width="100%"/>
-
-`root@israa:~# logout` — `session saved. see you on the other side`
-<br/>
-<i>"First, solve the problem. Then, write the code."</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=130&section=footer" width="100%"/>
+<code>root@israa:~# logout — session saved</code>
 </div>
