@@ -86,12 +86,12 @@ goal       : Full-stack dev who breaks things ethically
 
 ### GitHub stats
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsmeisraa&show_icons=true&theme=dark&border_radius=10&hide_border=true&title_color=00ff41&icon_color=00E5FF&text_color=ffffff&bg_color=000000" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsmeisraa&show_icons=true&theme=dark&border_radius=10&hide_border=true&title_color=00ff41&icon_color=00E5FF&text_color=ffffff&bg_color=000000" height="180" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com/?user=itsmeisraa&theme=dark&border_radius=10&hide_border=true&ring=00ff41&fire=FF0033&currStreakLabel=00E5FF&background=000000" height="180" alt="Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsmeisraa&layout=compact&theme=dark&border_radius=10&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=000000" height="170" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeisraa&layout=compact&theme=dark&border_radius=10&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=000000" height="170" alt="Top languages" />
 
 </div>
 
